@@ -1,1 +1,3 @@
 # Proy1E1BI
+
+Este proyecto desarrolla un modelo de analítica de textos para clasificar automáticamente opiniones ciudadanas en los Objetivos de Desarrollo Sostenible (ODS) 1, 3 y 4: Fin de la pobreza, Salud y bienestar, y Educación de calidad. Aplicamos una metodología completa de ciencia de datos que incluyó entendimiento y preparación de datos, construcción de pipelines de preprocesamiento, experimentación con modelos (Regresión Logística, Naive Bayes y KNN) y evaluación con validación cruzada. Los resultados muestran un desempeño robusto (F1 ponderado cercano al 97%), lo que permite transformar la voz de la ciudadanía en insumos concretos para la toma de decisiones públicas alineadas con la Agenda 2030.
